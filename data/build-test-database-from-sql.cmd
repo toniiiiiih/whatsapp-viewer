@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 del test-database.db
 del test-database-large.db
